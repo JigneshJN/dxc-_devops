@@ -1,2 +1,2 @@
 # dxc-_devops
-Dxc technology
+Dxc repository
